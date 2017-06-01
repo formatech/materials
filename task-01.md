@@ -6,8 +6,11 @@ It display a random quote from the quote database, with the two buttons:
  - **Favorite**: add this quote to favorites
  - **Another Quote**: show another random quote
 
+![Main Page](./images/inspire-main.png)
+
 ## Favorite Quotes
 Show the list of favorites quotes with the option to remove each quote from favorite.
+![Favorites](./images/inspire-favorites.png)
 
 
 ## Submit a Quote
