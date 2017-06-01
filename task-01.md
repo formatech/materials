@@ -2,15 +2,19 @@ Inspire Application
 ==================
 You have three pages:
  ## Main Page
-It display a random quote from the quote database, with the two buttons:
+It display a random quote from the quote database, with two buttons:
  - **Favorite**: add this quote to favorites
  - **Another Quote**: show another random quote
 
 ![Main Page](./images/inspire-main.png)
 
+
 ## Favorite Quotes
 Show the list of favorites quotes with the option to remove each quote from favorite.
+
 ![Favorites](./images/inspire-favorites.png)
+
+
 
 
 ## Submit a Quote
@@ -33,7 +37,7 @@ Save a new quote to the list of quotes, the quote object have two properties:
 ## Code Hint
 
 ### Get Random item
-In JavaScript To get a random item from a database you can use the following method:
+You can use the followin method to get a random item from an array
 
 ```js
 function random(array) {
@@ -69,7 +73,7 @@ function random(array) {
  ```
 
  ## Bonus
-Use a web api to fetch the quotes instead of using the local database
+Use the web api to fetch quotes instead of using the local database
 https://talaikis.com/api/quotes/random/
 
 
