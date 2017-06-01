@@ -6,14 +6,9 @@ It display a random quote from the quote database, with two buttons:
  - **Favorite**: add this quote to favorites
  - **Another Quote**: show another random quote
 
-![Main Page](./images/inspire-main.png)
-
 
 ## Favorite Quotes
 Show the list of favorites quotes with the option to remove each quote from favorite.
-
-![Favorites](./images/inspire-favorites.png)
-
 
 
 
@@ -76,5 +71,7 @@ function random(array) {
 Use the web api to fetch quotes instead of using the local database
 https://talaikis.com/api/quotes/random/
 
-
+## Images
+![Main Page](./images/inspire-main.png)
+![Favorites](./images/inspire-favorites.png)
 
